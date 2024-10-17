@@ -7,7 +7,7 @@ Release:	10
 Summary:	User authentication and permission management framework
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/LiveUser/
+URL:		https://pear.php.net/package/LiveUser/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tar.bz2
 Requires(post): php-pear
 Requires(preun): php-pear
